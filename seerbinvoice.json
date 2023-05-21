@@ -1,0 +1,22 @@
+{
+    "publicKey":"publicKey",
+    "orderNo": "333333221321",
+    "dueDate": "2022-10-23",
+    "currency": "NGN",
+    "receiversName": "Jane Smith",
+    "customerEmail": "janesmith@emaildomain.com",
+    "invoiceItems": [
+        {
+            "itemName": "Bluetooth Pods",
+            "quantity": 1,
+            "rate": 25000,
+            "tax": 7.5
+        },
+        {
+            "itemName": "Quest 10",
+            "quantity": 4,
+            "rate": 100000,
+            "tax": 7.5
+        }
+    ]
+}
